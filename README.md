@@ -57,10 +57,14 @@ This dataset is a synthetic collection of environmental and weather-related data
     - **Type**: Continuous
     - **Range**: 20% to 100%
 
+---
+
 ### Dataset Dimensions
 
 - **Number of Rows**: 3900 (100 data points for each of the 39 cities)
 - **Number of Columns**: 10 (City, Date, PM2.5, PM10, NO2, SO2, CO, O3, Temperature, Humidity)
+
+---
 
 ### Potential Analysis and Findings
 
@@ -91,6 +95,8 @@ This dataset is a synthetic collection of environmental and weather-related data
 7. **Extreme Events Analysis**:
    - **Objective**: Detect and analyze extreme events such as pollution spikes or temperature anomalies.
    - **Findings**: Understand the frequency and impact of such events, possibly relating them to external factors like festivals, industrial activity, or weather patterns.
+
+---
 
 ### Limitations
 
